@@ -81,11 +81,11 @@ export const projects: ProjectType[] = [
   },
   {
     id: 3,
-    title: 'Text-Extraction',
-    description: 'Applied text extraction for a variety of document types, including invoices, receipts, and forms, automating data collection processes.',
+    title: 'Book Recommendation',
+    description: 'Created a personalized book recommendation system that uses collaborative filtering and content-based approaches to suggest titles based on user preferences and reading history.',
     category: 'Machine Learning',
-    image: 'https://cdn.prod.website-files.com/62a9e41d28a7ab25849bce9c/631d9971fddd92801e437f0a_6i-aClKLDO18EN_yW2Ol8mM_DBKd4D2mbdltmmZFBOXUF3GM5zlVLJhnV121T4W30TKzCTXEgzmrQphal-f1N1KyhgbId8wDt983amiHkd7gDst0rgO6V8YEY5BDxYw7-SOOLVywWOp4Cb3tdtB3mGBYOEVLli3cP0ibG3Oawqcn2_ZfxSYHahQ8dQ.jpeg',
-    link: 'https://github.com/Satyamsingh705/Text-Extract',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPm7EZT6dx2GP1eJvyqU88UebXBbxCXnblvw&s',
+    link: 'https://book-recommendation-gv5k.onrender.com',
   },
   {
     id: 4,
